@@ -1,0 +1,31 @@
+.card{
+    height:fit-content;
+    width:300px;
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    
+}
+img{
+    align-self: center;
+    height: 30% ;
+    width: auto ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.info{
+    font-weight: 700;
+    text-align: center;
+    margin:10px;
+}
+.main-conatiner{
+    display: grid;
+    grid-template-columns: repeat(5,auto);
+    gap: 10px;
+    
+}
+.header{
+    
+    text-align: center;
+}
