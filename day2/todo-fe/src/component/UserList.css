@@ -1,0 +1,15 @@
+.main-container{
+ padding: 10px;
+}
+.add-button{
+float: right;
+margin: 10px;
+}
+.input-field{
+    display: flex;
+    gap: 100px;
+    margin-bottom: 27px;
+}
+.label{
+    min-width: 150px !important;
+}
